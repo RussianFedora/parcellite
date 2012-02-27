@@ -1,6 +1,6 @@
 Name:           parcellite
 Version:        0.9.2
-Release:        3%{?dist}
+Release:        3%{?dist}.R
 Summary:        A lightweight GTK+ clipboard manager
 
 Group:          User Interface/Desktops
